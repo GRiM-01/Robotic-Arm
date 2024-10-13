@@ -9,4 +9,4 @@ The Robotic_Arm_Wired.ino file was used for prototyping the robotic arm without 
 
 The Robotic_Arm_Wireless folder contains the final Arduino codes for the Control Centre and Robotic Arm subsystems that interact via wireless communication using NRF modules.
 
-Additionally I have made available the final Circuit Schematics and Wiring Tables.
+Additionally I have made available the final Circuit Schematics, Wiring Tables and the final report I wrote for the project for further clarity.
